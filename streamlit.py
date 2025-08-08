@@ -907,6 +907,7 @@ elif selected == "📄 Docs":
 
     **📌 Developed by:** Naveen Kumar R  
     **📧 Email:** naveenramu2003@gmail.com
+    **   Linked In : **https://www.linkedin.com/in/naveenkumar-ds
 
     ---
 

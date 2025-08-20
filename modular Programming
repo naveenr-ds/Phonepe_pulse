@@ -5,16 +5,7 @@ import json
 import pandas as pd
 
 def extract_insurance_data(base_path):
-    """
-    Traverse the directory structure and extract insurance transaction data
-    from JSON files.
-    
-    Expected structure:
-        base_path/state/year/quarter.json
-    
-    Returns:
-        List of dictionaries with transaction data.
-    """
+
     data_list = []
     
     for state_dir in os.listdir(base_path):
